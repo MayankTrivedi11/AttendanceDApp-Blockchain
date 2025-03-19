@@ -2,7 +2,9 @@
 
 A decentralized application (DApp) for tracking student attendance on the Ethereum blockchain. Built with Solidity for the smart contract, Hardhat for development, and React with vanilla CSS for the frontend, this project allows an admin to register students, students to mark their attendance, and provides a clean, modern UI to manage the process.
 
-![image](https://github.com/user-attachments/assets/c2e6460a-8764-4d98-be36-05c51b0500a4)
+
+![image](https://github.com/user-attachments/assets/7618a09a-0878-4816-9568-aef52ce1a1c2)
+
 
 ## Features
 - **Admin Functions**: Add and remove students using their Ethereum addresses and names.
