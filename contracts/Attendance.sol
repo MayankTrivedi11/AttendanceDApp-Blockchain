@@ -54,3 +54,7 @@ contract Attendance {
         return studentAddresses.length;
     }
 }
+
+Attendance validation {{function validate attendanceCount(getAttendance = markAttendance)}
+return getStudentCount.length;
+}
